@@ -1,4 +1,8 @@
-## holiss soy conitta👋
+<h1 align="center">holiss soy conittaa👋</h1>
+
+<p align="center">
+  aprendiendo a programar, paso a paso ✨
+</p>
 
 <!--
 **coniita14/coniita14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
