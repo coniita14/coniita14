@@ -1,26 +1,39 @@
-<h1 align="center">holiss soy conittaa👋</h1>
+<h1 align="center">Holiss, soy Conitaa 👋</h1>
 
 <p align="center">
-  aprendiendo a programar, paso a paso ✨
+  ✨ Aprendiendo a programar paso a paso ✨ <br>
+  💻 Amante de las redes sociales <br>
+  🚀 Construyendo mi camino en el mundo IT
 </p>
 
-<!--
-**coniita14/coniita14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-## 🌷 about me
+### 🌸 Sobre mí
+- 🎂 17 años  
+- 📚 Estudiante  
+- 💡 Me gusta aprender cosas nuevas todos los días  
+- 🎨 Me gusta lo aesthetic y creativo  
 
-- 📱 actualmente...
-  creando contenido y viviendo en redes sociales ✨
+---
 
-- 🌱 aprendiendo...
-  edición de videos 🎬 + tendencias de tiktok e instagram 💕
+### 🛠️ Tecnologías que estoy aprendiendo
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
-- 💭 necesito ayuda con...
-  crecer en redes y hacer contenido más viral 🚀
+---
 
-- 💬 hablame de...
-  redes sociales, trends y edición 💌
+### 📂 Mis proyectos
+- 🔹 **Portafolio** → mi primera web personal  
+- 🔹 **TP1** → trabajos prácticos de clase  
+- 🔹 **Veterinaria PHP** → sistema básico en desarrollo  
 
-- ⚡ fun fact:
-  siempre estoy viendo tiktok y guardando ideas 💡💗
--->
+---
+
+
+
+---
+
+<p align="center">
+  💖 Gracias por visitar mi perfil 💖
+</p>
