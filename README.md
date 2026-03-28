@@ -9,7 +9,7 @@
 ---
 
 ### 🌸 Sobre mí
-- 🎂 17 años  
+- 🎂 18 años  
 - 📚 Estudiante  
 - 💡 Me gusta aprender cosas nuevas todos los días  
 - 🎨 Me gusta lo aesthetic y creativo  
